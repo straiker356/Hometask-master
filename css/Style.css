@@ -1,0 +1,9 @@
+#header{background-image:url(../images/headerfon.jpg);
+ background-repeat: repeat-x;  margin-right: 10px;
+  margin-left: 10px; border-width: 1px; border-color: black;
+   border-style: solid;}
+
+
+.logo{padding: 10%;}
+#wrap{ border: 1px solid red ; width: 1000px;margin-left: 100px; padding: 40px;}
+.text{color: #939393; font-family: Arial;}
